@@ -852,7 +852,7 @@ plot(top_10_rules_to_plot, method = "grouped")
 # It should have code chunks that explain all the steps performed on the
 # datasets.
 
-## Part D ----
+## Part D --0--
 # Render the .Rmd (R markdown) file into its .md (markdown) version by using
 # knitR in RStudio.
 
